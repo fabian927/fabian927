@@ -1,16 +1,14 @@
-### Hi there 👋
+# Fabian Ovalle
+##  Desarrollador Back-end Junior
+Desarrollador de software junior con 1 año de experiencia realizando sistemas de información. Soy una persona proactiva, dinámica, afrontó con responsabilidad las tareas asignadas, comprometido en aportar experiencias positivas al equipo. Poseo una excelente capacidad para asumir retos o aprender nuevas tecnologías
+### SKILLS
 
-<!--
-**fabian927/fabian927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- PHP/laravel
+- SQL
+- GIT
+- HTML5, CSS3
 
-Here are some ideas to get you started:
+### Idiomas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Español Nativo
+- Ingles A2
