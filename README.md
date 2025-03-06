@@ -12,7 +12,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Soy Desarrollador Back-end Junior</h2></summary>
+    <summary><h2 style="display: inline-block">Soy Desarrollador Junior</h2></summary>
   </ul>
 </div>
 
@@ -24,7 +24,7 @@
 
 - 📓 Estudio **Analisis y Desarrollo de Software.**
 
-- ☁️ Tengo interes en el Desarrollo de Software, es por eso que aprendo **PHP (Laravel)**
+- ☁️ Tengo interes en el Desarrollo de Software, es por eso que aprendo **PHP (Laravel) y JavaScript (React)**
   
 - 🐌 Quiero aprender **Dark con Flutter y nuevas Tecnologías más**
 
