@@ -30,7 +30,7 @@
 
 - 📝 Soy una persona proactiva, dinámica y comprometida.
 
-- 💬 LLevo alrededor de un año y seis meses trabajan y aprendiendo programación.
+- 💬 LLevo alrededor de dos años trabajan y aprendiendo programación.
 
 <!--Intro end-->
 
